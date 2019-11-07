@@ -1,7 +1,8 @@
 #CSci 127 Teaching Staff
-#October 2017
+#November 2019
 #A template for a program that computes Copenhagen transit fares.
-#Modified by:  ADD YOUR NAME HERE
+#Modified by: Sumaya Rimi
+#Email: sumaya.rimi87@myhunter.cuny.edu
 
 def computeFare(zone, ticketType):
      """
